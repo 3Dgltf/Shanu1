@@ -1,0 +1,6 @@
+{
+  "name": "Loreat Beauty Parlour",
+  "description": "Loreat Beauty Parlour website featuring salon services, bridal makeup packages, online appointments, and contact info in Meerut",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
